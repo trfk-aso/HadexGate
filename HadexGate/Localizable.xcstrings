@@ -1,0 +1,836 @@
+{
+  "sourceLanguage" : "en",
+  "strings" : {
+    "" : {},
+    "· %@" : {},
+    "“%@”" : {},
+    "%lld" : {},
+    "%lld %@" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "%1$lld %2$@"
+          }
+        }
+      }
+    },
+    "%lld entries" : {
+      "localizations" : {
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%lld vermeldingen"
+          }
+        }
+      }
+    },
+    "%lld events" : {
+      "localizations" : {
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%lld gebeurtenissen"
+          }
+        }
+      }
+    },
+    "%lld free" : {
+      "localizations" : {
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%lld gratis"
+          }
+        }
+      }
+    },
+    "%lld parts" : {
+      "localizations" : {
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%lld delen"
+          }
+        }
+      }
+    },
+    "%lld/%lld" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "%1$lld/%2$lld"
+          }
+        }
+      }
+    },
+    "%lld%%" : {},
+    "$1.99" : {},
+    "As you explore the underworld, take the Gate test or challenge the quiz, your journey will be recorded here." : {
+      "localizations" : {
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Terwijl je de onderwereld verkent, de Poorttest doet of de quiz aangaat, wordt je reis hier vastgelegd."
+          }
+        }
+      }
+    },
+    "Ask of the underworld…" : {
+      "localizations" : {
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Vraag de onderwereld…"
+          }
+        }
+      }
+    },
+    "Ask the Keeper" : {
+      "localizations" : {
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Vraag de Bewaarder"
+          }
+        }
+      }
+    },
+    "Ask the Keeper of the Gate" : {
+      "localizations" : {
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Vraag de Bewaarder van de Poort"
+          }
+        }
+      }
+    },
+    "Clear" : {
+      "localizations" : {
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Wissen"
+          }
+        }
+      }
+    },
+    "Clear Search" : {
+      "localizations" : {
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Zoekopdracht wissen"
+          }
+        }
+      }
+    },
+    "Curated Descents" : {
+      "localizations" : {
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Samengestelde afdalingen"
+          }
+        }
+      }
+    },
+    "Did you know?" : {
+      "localizations" : {
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Wist je dat?"
+          }
+        }
+      }
+    },
+    "Done" : {
+      "localizations" : {
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Klaar"
+          }
+        }
+      }
+    },
+    "Enter the Greek Underworld" : {
+      "localizations" : {
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Betreed de Griekse onderwereld"
+          }
+        }
+      }
+    },
+    "Explore the Dark" : {
+      "localizations" : {
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Verken het duister"
+          }
+        }
+      }
+    },
+    "Explore the underworld by theme" : {
+      "localizations" : {
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Verken de onderwereld per thema"
+          }
+        }
+      }
+    },
+    "Free questions used — Unlock the Oracle" : {
+      "localizations" : {
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Gratis vragen op — Ontgrendel het Orakel"
+          }
+        }
+      }
+    },
+    "Guided journeys through the dark" : {
+      "localizations" : {
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Begeleide reizen door het duister"
+          }
+        }
+      }
+    },
+    "Hadex Gate" : {},
+    "HADEX GATE" : {},
+    "Hadex Gate. Enter the Greek underworld." : {
+      "localizations" : {
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hadex Gate. Betreed de Griekse onderwereld."
+          }
+        }
+      }
+    },
+    "Hadex Passage" : {},
+    "In-app purchases are currently unavailable. You can still see what's inside — please try again later." : {
+      "localizations" : {
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "In-app-aankopen zijn momenteel niet beschikbaar. Je kunt nog steeds zien wat erin zit — probeer het later opnieuw."
+          }
+        }
+      }
+    },
+    "Keeper of the Gate" : {
+      "localizations" : {
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bewaarder van de Poort"
+          }
+        }
+      }
+    },
+    "More %@" : {
+      "localizations" : {
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Meer %@"
+          }
+        }
+      }
+    },
+    "Next Question" : {
+      "localizations" : {
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Volgende Vraag"
+          }
+        }
+      }
+    },
+    "No lore matches your search. Try another name — Cerberus, Styx, Orpheus — or clear your filters." : {
+      "localizations" : {
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Geen overlevering komt overeen met je zoekopdracht. Probeer een andere naam — Cerberus, Styx, Orpheus — of wis je filters."
+          }
+        }
+      }
+    },
+    "No path walked yet" : {
+      "localizations" : {
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nog geen pad bewandeld"
+          }
+        }
+      }
+    },
+    "No shades found" : {
+      "localizations" : {
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Geen schimmen gevonden"
+          }
+        }
+      }
+    },
+    "Nothing saved yet" : {
+      "localizations" : {
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nog niets bewaard"
+          }
+        }
+      }
+    },
+    "OK" : {
+      "localizations" : {
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Oké"
+          }
+        }
+      }
+    },
+    "One-time purchases. Yours forever, no subscription." : {
+      "localizations" : {
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Eenmalige aankopen. Voor altijd van jou, geen abonnement."
+          }
+        }
+      }
+    },
+    "Oracle of the Underworld" : {
+      "localizations" : {
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Orakel van de onderwereld"
+          }
+        }
+      }
+    },
+    "Play Again" : {
+      "localizations" : {
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Speel opnieuw"
+          }
+        }
+      }
+    },
+    "Prove yourself before the gate" : {
+      "localizations" : {
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bewijs jezelf voor de poort"
+          }
+        }
+      }
+    },
+    "Question %lld of %lld" : {
+      "localizations" : {
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Vraag %lld van %lld"
+          }
+        }
+      }
+    },
+    "Quick Facts" : {
+      "localizations" : {
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Snelle feiten"
+          }
+        }
+      }
+    },
+    "Quiz of the Dark" : {
+      "localizations" : {
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Quiz van het duister"
+          }
+        }
+      }
+    },
+    "Realms of Knowledge" : {
+      "localizations" : {
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Rijken van kennis"
+          }
+        }
+      }
+    },
+    "Restore" : {
+      "localizations" : {
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Herstel"
+          }
+        }
+      }
+    },
+    "Restore Purchases" : {
+      "localizations" : {
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Aankopen herstellen"
+          }
+        }
+      }
+    },
+    "Retry" : {
+      "localizations" : {
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Opnieuw"
+          }
+        }
+      }
+    },
+    "Reveal the Answer" : {
+      "localizations" : {
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Onthul het antwoord"
+          }
+        }
+      }
+    },
+    "Riddle of the Sphinx" : {
+      "localizations" : {
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Raadsel van de Sfinx"
+          }
+        }
+      }
+    },
+    "Save to Library" : {
+      "localizations" : {
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bewaar in bibliotheek"
+          }
+        }
+      }
+    },
+    "Saved to Library" : {
+      "localizations" : {
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bewaard in bibliotheek"
+          }
+        }
+      }
+    },
+    "Search monsters, rivers, heroes…" : {
+      "localizations" : {
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Zoek monsters, rivieren, helden…"
+          }
+        }
+      }
+    },
+    "See all" : {
+      "localizations" : {
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Alles tonen"
+          }
+        }
+      }
+    },
+    "See Your Score" : {
+      "localizations" : {
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bekijk je Score"
+          }
+        }
+      }
+    },
+    "Seeker of the Gate" : {
+      "localizations" : {
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Zoeker van de Poort"
+          }
+        }
+      }
+    },
+    "Settings" : {
+      "localizations" : {
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Instellingen"
+          }
+        }
+      }
+    },
+    "Share Score" : {
+      "localizations" : {
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Score delen"
+          }
+        }
+      }
+    },
+    "Share Your Fate" : {
+      "localizations" : {
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Deel je lot"
+          }
+        }
+      }
+    },
+    "Take the Test Again" : {
+      "localizations" : {
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Doe de test opnieuw"
+          }
+        }
+      }
+    },
+    "Tap the bookmark on any monster, myth or realm to keep it here for your descent." : {
+      "localizations" : {
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tik op de bladwijzer bij een monster, mythe of rijk om het hier te bewaren voor je afdaling."
+          }
+        }
+      }
+    },
+    "The Bestiary" : {
+      "localizations" : {
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Het bestiarium"
+          }
+        }
+      }
+    },
+    "The Gate of Hades" : {
+      "localizations" : {
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "De Poort van Hades"
+          }
+        }
+      }
+    },
+    "The gate stands open before you." : {
+      "localizations" : {
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "De poort staat voor je open."
+          }
+        }
+      }
+    },
+    "The Greeks buried their dead with a coin for Charon and, at the Eleusinian Mysteries, hoped to learn secrets that would spare their souls the grey fate of the Asphodel Meadows." : {
+      "localizations" : {
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "De Grieken begroeven hun doden met een munt voor Charon en hoopten bij de Eleusinische Mysteriën geheimen te leren die hun zielen het grauwe lot van de Asfodelvelden zouden besparen."
+          }
+        }
+      }
+    },
+    "THE JUDGES DECREE" : {
+      "localizations" : {
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "HET OORDEEL DER RECHTERS"
+          }
+        }
+      }
+    },
+    "The Keeper is thinking" : {
+      "localizations" : {
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "De Bewaarder denkt na"
+          }
+        }
+      }
+    },
+    "The Verdict" : {
+      "localizations" : {
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Het oordeel"
+          }
+        }
+      }
+    },
+    "Themes" : {
+      "localizations" : {
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Thema's"
+          }
+        }
+      }
+    },
+    "These are one-time purchases charged to your Apple ID. Already bought them? Use Restore Purchases to unlock again on this account." : {
+      "localizations" : {
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dit zijn eenmalige aankopen die in rekening worden gebracht via je Apple ID. Al gekocht? Gebruik 'Aankopen herstellen' om ze op dit account opnieuw te ontgrendelen."
+          }
+        }
+      }
+    },
+    "This torment is sealed" : {
+      "localizations" : {
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Deze kwelling is verzegeld"
+          }
+        }
+      }
+    },
+    "Trials of the Gate" : {
+      "localizations" : {
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Beproevingen van de Poort"
+          }
+        }
+      }
+    },
+    "Two trials await, seeker — one of the soul, one of the mind." : {
+      "localizations" : {
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Twee beproevingen wachten, zoeker — één van de ziel, één van de geest."
+          }
+        }
+      }
+    },
+    "Unavailable" : {
+      "localizations" : {
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Niet beschikbaar"
+          }
+        }
+      }
+    },
+    "Unlock" : {
+      "localizations" : {
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ontgrendel"
+          }
+        }
+      }
+    },
+    "Unlock · %@" : {},
+    "Unlock Hadex Gate" : {
+      "localizations" : {
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ontgrendel Hadex Gate"
+          }
+        }
+      }
+    },
+    "Unlock the complete bestiary and every torment of Tartarus with the Hadex Passage — a one-time purchase." : {
+      "localizations" : {
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ontgrendel het complete bestiarium en elke kwelling van Tartarus met de Hadex Passage — een eenmalige aankoop."
+          }
+        }
+      }
+    },
+    "Unlock the full bestiary, unlimited Oracle wisdom, and every torment of Tartarus." : {
+      "localizations" : {
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ontgrendel het volledige bestiarium, onbeperkte Orakelwijsheid en elke kwelling van Tartarus."
+          }
+        }
+      }
+    },
+    "Unlocked" : {
+      "localizations" : {
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ontgrendeld"
+          }
+        }
+      }
+    },
+    "Version 1.0" : {
+      "localizations" : {
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Versie 1.0"
+          }
+        }
+      }
+    },
+    "View Passage" : {
+      "localizations" : {
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bekijk Passage"
+          }
+        }
+      }
+    },
+    "Welcome, seeker" : {
+      "localizations" : {
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Welkom, zoeker"
+          }
+        }
+      }
+    },
+    "What awaits you" : {
+      "localizations" : {
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Wat je te wachten staat"
+          }
+        }
+      }
+    },
+    "Why the gate chose this" : {
+      "localizations" : {
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Waarom de poort dit koos"
+          }
+        }
+      }
+    },
+    "Your AI guide to every myth and monster" : {
+      "localizations" : {
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Je AI-gids voor elke mythe en elk monster"
+          }
+        }
+      }
+    },
+    "Your Library" : {
+      "localizations" : {
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Jouw bibliotheek"
+          }
+        }
+      }
+    },
+    "Your Recent Path" : {
+      "localizations" : {
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Je recente pad"
+          }
+        }
+      }
+    },
+    "Your record before the gate" : {
+      "localizations" : {
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Jouw staat van dienst voor de poort"
+          }
+        }
+      }
+    },
+    "Your Standing" : {
+      "localizations" : {
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Jouw stand"
+          }
+        }
+      }
+    }
+  },
+  "version" : "1.0"
+}

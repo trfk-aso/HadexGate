@@ -1,0 +1,47 @@
+{
+  "identifier" : "A1B2C3D4-1111-2222-3333-444455556666",
+  "nonRenewingSubscriptions" : [],
+  "products" : [
+    {
+      "displayPrice" : "1.99",
+      "familyShareable" : false,
+      "internalID" : "1001",
+      "localizations" : [
+        {
+          "description" : "Unlock the complete bestiary and every torment of Tartarus.",
+          "displayName" : "Hadex Passage — Full Access",
+          "locale" : "en_US"
+        }
+      ],
+      "productID" : "com.hadexgate.passage",
+      "referenceName" : "Hadex Passage Full Access",
+      "type" : "NonConsumable"
+    },
+    {
+      "displayPrice" : "1.99",
+      "familyShareable" : false,
+      "internalID" : "1002",
+      "localizations" : [
+        {
+          "description" : "Ask the Keeper of the Gate without limit.",
+          "displayName" : "Keeper's Oracle — Unlimited",
+          "locale" : "en_US"
+        }
+      ],
+      "productID" : "com.hadexgate.oracle",
+      "referenceName" : "Keepers Oracle Unlimited",
+      "type" : "NonConsumable"
+    }
+  ],
+  "settings" : {
+    "_failTransactionsEnabled" : false,
+    "_locale" : "en_US",
+    "_storefront" : "USA",
+    "_timeRate" : 0
+  },
+  "subscriptionGroups" : [],
+  "version" : {
+    "major" : 4,
+    "minor" : 0
+  }
+}
