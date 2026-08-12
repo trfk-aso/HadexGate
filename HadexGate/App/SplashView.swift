@@ -2,14 +2,14 @@
 //  SplashView.swift
 //  HadexGate
 //
-//  Opening sequence. Driven by an `onFinish` callback (never a @Binding); the
+//  Opening sequence. Driven by an `onComplete` callback (never a @Binding); the
 //  callback fires only after the animation completes (min. 3 seconds).
 //
 
 import SwiftUI
 
 struct SplashView: View {
-    let onFinish: () -> Void
+    let onComplete: () -> Void
 
     @Environment(\.accessibilityReduceMotion) private var reduceMotion
 
@@ -115,7 +115,7 @@ struct SplashView: View {
                 ringScale = 1
             }
             try? await Task.sleep(for: .seconds(3))
-            onFinish()
+            onComplete()
             return
         }
 
@@ -136,10 +136,10 @@ struct SplashView: View {
         }
         // Hold on the finished composition; total ~3.4s before handing off.
         try? await Task.sleep(for: .milliseconds(1500))
-        onFinish()
+        onComplete()
     }
 }
 
 #Preview {
-    SplashView(onFinish: {})
+    SplashView(onComplete: {})
 }

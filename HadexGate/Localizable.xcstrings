@@ -1,10 +1,18 @@
 {
   "sourceLanguage" : "en",
   "strings" : {
-    "" : {},
-    "· %@" : {},
-    "“%@”" : {},
-    "%lld" : {},
+    "" : {
+
+    },
+    "· %@" : {
+
+    },
+    "“%@”" : {
+
+    },
+    "%lld" : {
+
+    },
     "%lld %@" : {
       "localizations" : {
         "en" : {
@@ -65,8 +73,12 @@
         }
       }
     },
-    "%lld%%" : {},
-    "$1.99" : {},
+    "%lld%%" : {
+
+    },
+    "$1.99" : {
+
+    },
     "As you explore the underworld, take the Gate test or challenge the quiz, your journey will be recorded here." : {
       "localizations" : {
         "nl" : {
@@ -126,6 +138,9 @@
           }
         }
       }
+    },
+    "Connection issue" : {
+
     },
     "Curated Descents" : {
       "localizations" : {
@@ -207,8 +222,12 @@
         }
       }
     },
-    "Hadex Gate" : {},
-    "HADEX GATE" : {},
+    "Hadex Gate" : {
+
+    },
+    "HADEX GATE" : {
+
+    },
     "Hadex Gate. Enter the Greek underworld." : {
       "localizations" : {
         "nl" : {
@@ -219,7 +238,9 @@
         }
       }
     },
-    "Hadex Passage" : {},
+    "Hadex Passage" : {
+
+    },
     "In-app purchases are currently unavailable. You can still see what's inside — please try again later." : {
       "localizations" : {
         "nl" : {
@@ -660,6 +681,9 @@
         }
       }
     },
+    "Try again" : {
+
+    },
     "Two trials await, seeker — one of the soul, one of the mind." : {
       "localizations" : {
         "nl" : {
@@ -690,7 +714,9 @@
         }
       }
     },
-    "Unlock · %@" : {},
+    "Unlock · %@" : {
+
+    },
     "Unlock Hadex Gate" : {
       "localizations" : {
         "nl" : {
